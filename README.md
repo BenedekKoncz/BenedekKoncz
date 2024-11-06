@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benedek Koncz
 - 👀 I’m interested in software architecture and DevOps
 - 🌱 I’m currently learning the go programming language
-- 📫 You can reachme at benedek.koncz@semilab.hu
+
 
 <!---
 BenedekKoncz/BenedekKoncz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
